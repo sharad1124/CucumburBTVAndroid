@@ -1,0 +1,46 @@
+[Android_Pixel 2 INFO ] 2020-06-05 23:23:12.636 DriverManager:24 - initializing Appium driver
+[Android_Pixel 2 FATAL] 2020-06-05 23:23:12.679 DriverManager:43 - Driver init. failure abort !!!
+[Android_Pixel 2 INFO ] 2020-06-05 23:39:24.959 DriverManager:28 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-05 23:39:25.021 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-05 23:39:25.022 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-05 23:39:25.025 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework/src/test/resources/app/btv.apk
+[Android_Pixel 2 FATAL] 2020-06-05 23:39:25.444 DriverManager:47 - Driver init. failure abort !!!
+[Android_Pixel 2 INFO ] 2020-06-05 23:39:58.697 DriverManager:28 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-05 23:39:58.758 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-05 23:39:58.759 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-05 23:39:58.761 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework/src/test/resources/app/btv.apk
+[Android_Pixel 2 FATAL] 2020-06-05 23:40:19.634 DriverManager:47 - Driver init. failure abort !!!
+[Android_Pixel 2 INFO ] 2020-06-05 23:40:42.684 DriverManager:28 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-05 23:40:42.744 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-05 23:40:42.745 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-05 23:40:42.748 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework/src/test/resources/app/btv.apk
+[Android_Pixel 2 FATAL] 2020-06-05 23:41:03.349 DriverManager:47 - Driver init. failure abort !!!
+[Android_Pixel 2 INFO ] 2020-06-05 23:42:35.918 DriverManager:28 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-05 23:42:35.996 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-05 23:42:35.998 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-05 23:42:36.001 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-05 23:42:51.697 DriverManager:42 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-05 23:42:52.390 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-05 23:42:54.407 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-05 23:43:17.895 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify marketing screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-05 23:53:46.024 DriverManager:28 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-05 23:53:46.079 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-05 23:53:46.081 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-05 23:53:46.083 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework/src/test/resources/app/btv.apk
+[Android_Pixel 2 FATAL] 2020-06-05 23:53:46.389 DriverManager:47 - Driver init. failure abort !!!
+[Android_Pixel 2 INFO ] 2020-06-05 23:54:23.718 DriverManager:28 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-05 23:54:23.769 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-05 23:54:23.770 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-05 23:54:23.772 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-05 23:54:32.293 DriverManager:42 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-05 23:54:32.866 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-05 23:54:34.547 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-05 23:55:15.457 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify marketing screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-05 23:58:35.536 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-05 23:58:36.936 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-05 23:58:36.951 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-05 23:58:36.966 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-05 23:58:36.967 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-05 23:58:36.969 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-05 23:58:47.686 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-05 23:59:08.461 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify marketing screen.mp4
